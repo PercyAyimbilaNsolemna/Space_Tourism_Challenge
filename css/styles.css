@@ -2,3 +2,7 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
 }
+
+ul {
+    list-style-type: none;
+}
