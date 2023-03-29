@@ -13,3 +13,8 @@ ul {
 li {
     display: inline-block;
 }
+
+ul > li > a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.918);
+}
