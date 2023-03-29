@@ -7,7 +7,6 @@ body {
 ul {
     list-style-type: none;
     padding: 0;
-    margin-left: 0;
     text-align: right;
 }
 
@@ -18,6 +17,7 @@ li {
 ul > li > a {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.918);
+    font-weight: lighter;
     padding-left: 60px;
 }
 
@@ -28,6 +28,12 @@ nav {
     padding: 5px 20px;
 }
 
+
 .Technology {
     margin-right: 100px;
+}
+
+.number {
+    padding-right: 5px;
+    font-weight: bold;
 }
