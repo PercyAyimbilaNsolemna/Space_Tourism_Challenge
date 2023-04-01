@@ -40,7 +40,7 @@ nav {
 }
 
 .content {
-    background-color: red;
+    /*background-color: red;*/
     color: white;
     width: 420px;
     position: relative;
@@ -58,8 +58,9 @@ nav {
 }
 
 .space {
-    background-color: yellow;
+    /*background-color: yellow;*/
     font-size: 7.8rem;
+    font-weight: 100;
     text-transform: uppercase;
     margin-top: 0;
     margin-bottom: 0;
