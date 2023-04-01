@@ -80,5 +80,9 @@ nav {
 
 
 .Explore {
+    background-color: white;
     position: absolute;
+    top: 55%;
+    left: 65%;
+    padding: 60px 60px;
 }
