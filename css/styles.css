@@ -44,8 +44,10 @@ nav {
     color: white;
     width: 420px;
     position: relative;
-    top: 100px;
+    top: 130px;
     left: 13%;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .question {
