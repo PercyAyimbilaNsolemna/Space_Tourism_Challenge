@@ -24,15 +24,13 @@ ul > li > a {
 
 nav {
     background-color: hsl(218, 57%, 12%);
+    width: 50%;
     margin-top: 20px;
     margin-left: 630px;
+    margin-right: 0;
     padding: 5px 20px;
 }
 
-
-.Technology {
-    margin-right: 100px;
-}
 
 .number {
     padding-right: 5px;
@@ -61,7 +59,7 @@ nav {
 .space {
     /*background-color: yellow;*/
     font-size: 7.8rem;
-    font-weight: 100;
+    font-weight: lighter;
     text-transform: uppercase;
     margin-top: 0;
     margin-bottom: 0;
