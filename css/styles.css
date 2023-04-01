@@ -38,3 +38,10 @@ nav {
     padding-right: 5px;
     font-weight: bold;
 }
+
+.content {
+    background-color: red;
+    width: 40%;
+    position: relative;
+    top: 25%;
+}
