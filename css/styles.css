@@ -19,8 +19,9 @@ ul > li > a {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.918);
     font-weight: lighter;
-    padding-right: 30px;
-    padding-left: 30px;
+    padding: 10px 30px;
+    /*padding-right: 30px;
+    padding-left: 30px;*/
 }
 
 nav {
@@ -28,9 +29,7 @@ nav {
     text-align: right;
     width: 50%;
     margin-top: 20px;
-    /*margin-left: 630px;*/
     margin-right: 0;
-    padding: 5px 20px;
     float: right;
 }
 
@@ -45,7 +44,7 @@ nav {
     color: white;
     width: 420px;
     position: relative;
-    top: 130px;
+    top: 200px;
     left: 13%;
     padding-top: 10px;
     padding-bottom: 10px;
