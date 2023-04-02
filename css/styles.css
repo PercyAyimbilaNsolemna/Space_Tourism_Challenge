@@ -178,4 +178,11 @@ ul > li > a:hover {
    body {
     background-image: url("../images/home/background-home-tablet.jpg");
    } 
+
+   nav {
+    width: 80%;
+    margin-top: 0;
+    padding-right: 40px;
+   }
+
 }
