@@ -21,7 +21,7 @@ ul > li > a {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.918);
     font-weight: lighter;
-    padding: 10px 30px;
+    padding: 20px 30px;
     /*padding-right: 30px;
     padding-left: 30px;*/
 }
@@ -31,8 +31,8 @@ nav {
     text-align: right;
     width: 50%;
     padding-top: 10px;
-    padding-bottom: 10px;
     padding-right: 0;
+    padding-bottom: 6px;
     margin-top: 20px;
     margin-right: 0;
     float: right;
@@ -61,6 +61,7 @@ nav {
     font-weight: lighter;
     text-transform: uppercase;
     padding-left: 7px;
+    white-space: 2;
 }
 
 .space {
@@ -92,5 +93,5 @@ nav {
     top: 50%;
     left: 65%;
     padding: 80px 80px;
-    border-radius: 200px;
+    border-radius: 300px;
 }
