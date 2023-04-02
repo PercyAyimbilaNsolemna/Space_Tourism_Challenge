@@ -133,4 +133,9 @@ ul > li > a:hover {
         margin-top: 0;
         padding-right: 60px;
     }
+
+    ul > li > a {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
 }
