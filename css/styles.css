@@ -105,3 +105,11 @@ ul > li > a:hover {
     border-bottom: solid 3px;
     border-color: white;
 }
+
+/**************************************RESPONSIVE DESISIN*********************************/
+@media (max-width: 1180px) {
+    ul > li > a {
+        margin-left: 15px;
+        margin-right: 15px;      
+    } 
+}
