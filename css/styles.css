@@ -126,5 +126,11 @@ ul > li > a:hover {
 @media (max-width: 1120px) {
     body{
         background-image: url("../images/home/background-home-tablet.jpg");
-    }    
+    }   
+    
+    nav {
+        width: 40%;
+        margin-top: 0;
+        padding-right: 60px;
+    }
 }
