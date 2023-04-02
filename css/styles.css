@@ -6,7 +6,7 @@ body {
 }
 
 ul {
-    background-color: red;
+    /*background-color: red;*/
     list-style-type: none;
     margin-left: 0;
     padding: 0;
@@ -17,7 +17,7 @@ li {
 }
 
 ul > li > a {
-    background-color: blue;
+    /*background-color: blue;*/
     text-decoration: none;
     color: rgba(255, 255, 255, 0.918);
     font-weight: lighter;
