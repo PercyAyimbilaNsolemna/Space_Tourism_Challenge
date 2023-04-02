@@ -52,10 +52,11 @@ nav {
 .content {
     /*background-color: red;*/
     color: white;
+    clear: right;
     width: 420px;
     position: relative;
-    top: 230px;
-    left: 13%;
+    top: 100px;
+    left: 10%;
     padding-top: 10px;
     padding-bottom: 10px;
 }
