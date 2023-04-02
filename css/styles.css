@@ -96,7 +96,6 @@ nav {
     color: rgba(3, 0, 0, 0.733);
     font-size: 1.5rem;
     position: absolute;
-    top: 50%;
     left: 65%;
     padding: 80px 80px;
     border-radius: 300px;
@@ -158,5 +157,12 @@ ul > li > a:hover {
         font-size: 5.5rem;
         text-align: center;
         padding: 0;
+    }
+
+    .Explore {
+        padding: 40px 40px;
+        top: 65%;
+        bottom: 5%;
+        left: 40%;
     }
 }
