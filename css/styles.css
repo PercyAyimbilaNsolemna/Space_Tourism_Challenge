@@ -175,5 +175,7 @@ ul > li > a:hover {
 
 /***********************************MOBILE DESIGN********************************************/
 @media (max-width: 500px) {
-    
+   body {
+    background-image: url("../images/home/background-home-tablet.jpg");
+   } 
 }
