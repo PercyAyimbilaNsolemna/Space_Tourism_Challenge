@@ -113,6 +113,10 @@ ul > li > a:hover {
         margin-right: 15px;      
     } 
 
+    nav {
+        padding-right: 100px;
+    }
+
     .content {
         left: 10%;
     }
