@@ -21,7 +21,12 @@ ul > li > a {
     text-decoration: none;
     color: rgba(255, 255, 255, 0.918);
     font-weight: lighter;
-    padding: 20px 30px;
+    /*margin-left: 20px 30px;*/
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*padding: 20px 30px;*/
     /*padding-right: 30px;
     padding-left: 30px;*/
 }
@@ -32,7 +37,7 @@ nav {
     width: 50%;
     padding-top: 10px;
     padding-right: 120px;
-    padding-bottom: 6px;
+    padding-bottom: 7px;
     margin-top: 20px;
     margin-right: 0;
     float: right;
@@ -94,4 +99,9 @@ nav {
     left: 65%;
     padding: 80px 80px;
     border-radius: 300px;
+}
+
+ul > li > a:hover {
+    border-bottom: solid 3px;
+    border-color: white;
 }
