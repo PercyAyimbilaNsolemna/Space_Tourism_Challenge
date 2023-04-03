@@ -42,3 +42,8 @@ nav {
     margin-right: 0;
     float: right;
 }
+
+.question {
+    position: relative;
+    top: 10%;
+}
