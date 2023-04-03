@@ -4,3 +4,10 @@ body {
     font-size: 15px;
     margin: 0;
 }
+
+ul {
+    /*background-color: red;*/
+    list-style-type: none;
+    margin-left: 0;
+    padding: 0;
+}
