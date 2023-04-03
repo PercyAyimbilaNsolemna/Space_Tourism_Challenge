@@ -30,3 +30,15 @@ ul > li > a {
     /*padding-right: 30px;
     padding-left: 30px;*/
 }
+
+nav {
+    background-color: hsl(218, 57%, 12%);
+    text-align: right;
+    width: 50%;
+    padding-top: 10px;
+    padding-right: 120px;
+    padding-bottom: 7px;
+    margin-top: 20px;
+    margin-right: 0;
+    float: right;
+}
