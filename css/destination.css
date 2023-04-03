@@ -54,3 +54,12 @@ img {
     top: 30%;
     left: 200px;
 }
+
+.container {
+    /*background-color: blue;*/
+    position: relative;
+    width: 500px;
+    top: 100px;
+    left: 50%;
+    clear: right;
+}
