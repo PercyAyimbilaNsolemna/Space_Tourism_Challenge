@@ -90,3 +90,8 @@ img {
     padding-bottom: 15px;
     margin-left: 15px;
 }
+
+.active {
+    border-bottom: 2px solid;
+    border-color: white;
+}
