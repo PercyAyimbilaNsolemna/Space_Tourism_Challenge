@@ -60,7 +60,7 @@ body {
 img {
     width: 350px;
     position: absolute;
-    top: 30%;
+    top: 35%;
     left: 200px;
 }
 
@@ -71,4 +71,8 @@ img {
     top: 100px;
     left: 50%;
     clear: right;
+}
+
+.container > .destination-selectors > nav > ul {
+    list-style-type: none;
 }
