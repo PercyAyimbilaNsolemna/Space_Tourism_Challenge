@@ -68,7 +68,7 @@ img {
     /*background-color: blue;*/
     position: relative;
     width: 500px;
-    top: 100px;
+    top: 40px;
     left: 50%;
     clear: right;
 }
@@ -84,12 +84,12 @@ img {
 }
 
 .container > .destination-selectors > nav > ul > li > a {
-    color: hsl(221, 76%, 75%);
-    font-weight: bold;
+    color: rgba(255, 255, 255, 0.658);
+    font-weight: lighter;
     text-decoration: none;
     padding-top: 15px;
-    padding-bottom: 15px;
-    margin-left: 15px;
+    padding-bottom: 10px;
+    margin-left: 10px;
 }
 
 .moon {
@@ -104,4 +104,12 @@ img {
 .container > .destination-selectors > nav {
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+.content > .heading > p {
+    color: white;
+    font-size: 5rem;
+    font-weight: lighter;
+    margin-top: 2px;
+    margin-bottom: 2px;
 }
