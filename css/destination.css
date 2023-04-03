@@ -47,3 +47,10 @@ nav {
     position: relative;
     top: 10%;
 }
+
+img {
+    width: 350px;
+    position: absolute;
+    top: 30%;
+    left: 200px;
+}
