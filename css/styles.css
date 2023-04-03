@@ -31,6 +31,12 @@ ul > li > a {
     padding-left: 30px;*/
 }
 
+.Home {
+    border-bottom: solid 3px;
+    border-color: white; 
+    padding-bottom: 20px;
+}
+
 nav {
     background-color: hsl(218, 57%, 12%);
     text-align: right;
@@ -141,6 +147,7 @@ ul > li > a:hover {
         margin-left: 10px;
         margin-right: 10px;
     }
+
 
     .content {
         top: 20px;
