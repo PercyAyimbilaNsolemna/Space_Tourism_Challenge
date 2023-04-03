@@ -44,8 +44,16 @@ body {
 }
 
 .question {
+    color: white;
+    clear: right;
     position: relative;
     top: 10%;
+    left: 12%;
+}
+
+.question > h4 > span {
+    color: grey;
+    margin-right: 20px;
 }
 
 img {
