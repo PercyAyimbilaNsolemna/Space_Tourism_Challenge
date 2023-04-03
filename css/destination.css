@@ -15,3 +15,18 @@ ul {
 li {
     display: inline-block;
 }
+
+ul > li > a {
+    /*background-color: blue;*/
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.918);
+    font-weight: lighter;
+    /*margin-left: 20px 30px;*/
+    margin-left: 30px;
+    margin-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /*padding: 20px 30px;*/
+    /*padding-right: 30px;
+    padding-left: 30px;*/
+}
