@@ -76,3 +76,7 @@ img {
 .container > .destination-selectors > nav > ul {
     list-style-type: none;
 }
+
+.container > .destination-selectors > nav > ul > li {
+    display: inline-block;
+}
