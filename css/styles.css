@@ -196,4 +196,8 @@ ul > li > a:hover {
         top: 5px;
     }
 
+    .question {
+        letter-spacing: 2px;
+    }
+
 }
