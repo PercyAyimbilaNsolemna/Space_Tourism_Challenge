@@ -150,3 +150,9 @@ td {
     color: hsl(222, 40%, 90%);
     font-size: 0.7rem;
 }
+
+@media (max-width: 1200px) {
+    .container {
+        left: 55%;
+    }   
+}
