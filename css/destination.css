@@ -114,16 +114,19 @@ img {
     margin-bottom: 2px;
 }
 
+.content > .description {
+    width: 410px;
+}
+
 .content > .description > p {
     color: hsl(222, 40%, 90%);
     line-height: 2;
     letter-spacing: 0.5px;
-    width: 420px;
-    padding-right: 50px;
     padding-bottom: 20px;
 }
 
 hr {
-    border: 0.5px none none none;
+    border: none none none 0.5px;
     border-color: rgba(51, 49, 49, 0.37);
+    padding-right: 150px;
 }
