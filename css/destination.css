@@ -144,3 +144,8 @@ td {
 .bold {
     font-size: 1.5rem;
 }
+
+.lighter {
+    color: hsl(222, 40%, 90%);
+    font-size: 0.7rem;
+}
