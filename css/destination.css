@@ -169,3 +169,10 @@ td {
         left: 100px;
     }
 }
+
+@media (max-width: 977px) {
+    .main > ul > li > a {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
