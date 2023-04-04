@@ -3,6 +3,7 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 15px;
     margin: 0;
+    padding: 0;
 }
 
 .main > ul {
@@ -45,11 +46,11 @@ body {
 
 .question {
     color: white;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     clear: right;
-    position: relative;
-    top: 20px;
-    left: 12%;
+    position: absolute;
+    top: 15%;
+    left: 16%;
 }
 
 .question > h4 > span {
@@ -133,6 +134,7 @@ hr {
 
 td {
     color: white;
+    padding-right: 35px;
 }
 
 .bold {
