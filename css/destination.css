@@ -190,3 +190,9 @@ td {
         top: 80px;
     }
 }
+
+@media (max-width: 840px) {
+    .question {
+        left: 10%;
+    }
+}
