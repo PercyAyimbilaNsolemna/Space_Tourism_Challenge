@@ -200,3 +200,9 @@ td {
         left: 100px;
     }
 }
+
+@media (max-width: 817px) {
+    .main {
+        width: 60%;
+    }
+}
