@@ -170,6 +170,12 @@ td {
     }
 }
 
+@media (max-width: 920px) {
+    img {
+        left: 60px
+    }
+}
+
 @media (max-width: 977px) {
     .main > ul > li > a {
         margin-left: 10px;
