@@ -175,4 +175,8 @@ td {
         margin-left: 10px;
         margin-right: 10px;
     }
+
+    .question {
+        top: 25%;
+    }
 }
