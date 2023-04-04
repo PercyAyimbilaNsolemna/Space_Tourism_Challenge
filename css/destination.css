@@ -134,3 +134,7 @@ hr {
 td {
     color: white;
 }
+
+.bold {
+    font-size: 2rem;
+}
