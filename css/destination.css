@@ -177,6 +177,12 @@ td {
     }
 
     .question {
-        top: 25%;
+        top: 15%;
+    }
+
+    img {
+        width: 300px;
+        top: 35%;
+        left: 150px;
     }
 }
