@@ -195,4 +195,8 @@ td {
     .question {
         left: 10%;
     }
+
+    img {
+        left: 100px;
+    }
 }
