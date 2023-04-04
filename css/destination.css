@@ -130,3 +130,7 @@ hr {
     border-color: rgba(51, 49, 49, 0.37);
     padding-right: 150px;
 }
+
+td {
+    color: white;
+}
