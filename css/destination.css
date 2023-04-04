@@ -161,6 +161,11 @@ td {
     .main > ul > li > a {
         margin-left: 20px;
         margin-right: 20px;
+    }   
+}
+
+@media (max-width: 1090px) {
+    img {
+        left: 100px;
     }
-    
 }
