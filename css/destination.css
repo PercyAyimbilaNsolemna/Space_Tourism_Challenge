@@ -172,7 +172,12 @@ td {
 
 @media (max-width: 920px) {
     img {
-        left: 60px
+        width: 50px;
+        left: 40px;
+    }
+
+    .container {
+        left: 50%;
     }
 }
 
