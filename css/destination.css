@@ -185,4 +185,8 @@ td {
         top: 35%;
         left: 150px;
     }
+
+    .container {
+        top: 80px;
+    }
 }
