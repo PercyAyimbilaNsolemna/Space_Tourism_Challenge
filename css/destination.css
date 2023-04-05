@@ -216,6 +216,7 @@ td {
 @media (max-width: 500px) {
     img {
         width: 150px;
+        top: 20%;
     }
 
     .main {
@@ -226,6 +227,11 @@ td {
     
     .question {
         top: 10%;
+    }
+
+    .container {
+        left: 5%;
+        top: 180px;
     }
     
 }
