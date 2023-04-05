@@ -220,10 +220,19 @@ td {
     }
 
     .main {
-        width: 100%;
-        padding-left: 30px;
+        float: none;
+        width: 95%;
         margin-top: 0;
+        padding-right: 10px;
+        padding-left: 0;
     } 
+
+
+    
+    .main > ul > li > a{
+        margin-left: 5px;
+        margin-right: 5px;
+    }
     
     .question {
         top: 10%;
@@ -231,7 +240,7 @@ td {
 
     .container {
         left: 5%;
-        top: 180px;
+        top: 200px;
     }
 
     .container > .destination-selectors > nav {
