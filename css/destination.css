@@ -239,4 +239,8 @@ td {
         margin-right: auto;
     }
     
+
+    .content > .heading > p {
+        font-size: 4rem;
+    }
 }
