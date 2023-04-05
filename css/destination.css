@@ -233,5 +233,10 @@ td {
         left: 5%;
         top: 180px;
     }
+
+    .container > .destination-selectors > nav {
+        margin-left: auto;
+        margin-right: auto;
+    }
     
 }
