@@ -171,13 +171,8 @@ td {
 }
 
 @media (max-width: 920px) {
-    img {
-        width: 50px;
-        left: 40px;
-    }
-
     .container {
-        left: 50%;
+        left: 53%;
     }
 }
 
@@ -216,4 +211,12 @@ td {
     .main {
         width: 60%;
     }
+}
+
+@media (max-width: 500px) {
+    .main {
+        width: 100%;
+        padding-left: 30px;
+        margin-top: 0;
+    }    
 }
