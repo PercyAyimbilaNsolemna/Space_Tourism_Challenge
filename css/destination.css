@@ -227,7 +227,6 @@ td {
         padding-left: 0;
     } 
 
-
     
     .main > ul > li > a{
         margin-left: 5px;
@@ -240,7 +239,7 @@ td {
 
     .container {
         left: 5%;
-        top: 200px;
+        top: 210px;
     }
 
     .container > .destination-selectors > nav {
@@ -251,5 +250,13 @@ td {
 
     .content > .heading > p {
         font-size: 4rem;
+    }
+
+    .container {
+        width: 450px; 
+    }
+
+    .content > .description > p {
+        padding-bottom: 5px;
     }
 }
